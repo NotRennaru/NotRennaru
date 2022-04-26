@@ -68,11 +68,8 @@ Here are some ideas to get you started:
   <a href="http://vscodium.github.io/" target="blank">
     <img align="center" src="https://github.com/VSCodium/vscodium.github.io/blob/master/img/code.png" alt="" height="40" width="40" />
   </a>
-  <a href="https://www.sublimetext.com/" target="blank">
-    <img align="center" src="https://www.sublimehq.com/images/sublime_text.png" alt="" height="40" width="40" />
-  </a>
-  <a href="https://www.sublimemerge.com/" target="blank">
-    <img align="center" src="https://www.sublimehq.com/images/sublime_merge.png" alt="" height="40" width="40" />
+  <a href="https://www.github.com/neovim/neovim" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" alt="" height="40" width="40" />
   </a>
 </p>
 

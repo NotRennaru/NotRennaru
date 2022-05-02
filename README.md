@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h2>
 
 <h3 align="center">
-  My name is Rennaru or you can call me Ren/Renna. I am student from thailand.
+  My name is Rennaru or you can call me Ren/Renna.
 </h2>
 
 <h3 align="center">

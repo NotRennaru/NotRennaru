@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 </h2>
 
 <h3 align="center">
-- 😄 Pronouns: He - <br>
 <!-- - 🌱 I’m currently learning <br> -->
 - 📫 How to reach me: Rennaru#8285 - <br>
 - ⚡ Fun fact: I love cat - <br>
@@ -80,10 +79,10 @@ Here are some ideas to get you started:
 
 <!-- tokyonight / nord -->
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotRennaru&layout=compact&theme=nord">
- <img src="https://github-readme-stats.vercel.app/api?username=NotRennaru&show_icons=true&theme=nord&line_height=27">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotRennaru&layout=compact&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api?username=NotRennaru&show_icons=true&theme=tokyonight&line_height=27">
 </p> 
 
 <p align = "center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=NotRennaru&theme=nord&date_format=j%20M%5B%20Y%5D">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=NotRennaru&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
 </p> 

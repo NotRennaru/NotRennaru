@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Rennaru#8285 - <br>
 - ⚡ Fun fact: I love cat - <br>
 - 👯 I'm looking to collaborate on Valve, Mojang Studio - <br> 
-- 🔭 I’m currently working on Oxycord - <br>
+- 🔭 I’m currently working on some random project - <br>
 </h3>
 
 <h2 align="center">

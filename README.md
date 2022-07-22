@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning <br> -->
 - 📫 How to reach me: Rennaru#8285 - <br>
 - ⚡ Fun fact: I love cat - <br>
-- 👯 I'm looking to collaborate on Valve, Mojang Studio - <br> 
+- 👯 I'm looking to collaborate on Mojang Studio - <br> 
 - 🔭 I’m currently working on some random project - <br>
 </h3>
 
